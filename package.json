@@ -11,5 +11,9 @@
     "mailer"
   ],
   "author": "Tran Quoc Cuong",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "nodemailer": "^1.10.0",
+    "nodemailer-smtp-pool": "^1.1.3"
+  }
 }
