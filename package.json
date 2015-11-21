@@ -1,0 +1,15 @@
+{
+  "name": "arrow-mailer",
+  "version": "0.0.1",
+  "description": "node mailer for Arrowjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "arrowjs",
+    "mailer"
+  ],
+  "author": "Tran Quoc Cuong",
+  "license": "MIT"
+}
